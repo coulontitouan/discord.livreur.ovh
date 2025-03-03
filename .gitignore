@@ -1,0 +1,51 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+.env/
+
+# Fichiers Python compilés
+*.pyc
+*.pyo
+__pycache__/
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers de configuration sensibles
+.env
+*.env
+
+# Base de données SQLite locale
+*.sqlite3
+*.db
+
+# Cache et fichiers temporaires
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+
+# Configurations spécifiques à l'IDE
+.vscode/
+.idea/
+*.iml
+
+# Dépendances installées
+pip-wheel-metadata/
+pip-log.txt
+
+# Fichiers générés par Flask
+instance/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Node.js (si front intégré dans le projet)
+node_modules/
+npm-debug.log
+yarn-error.log
