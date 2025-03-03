@@ -6,3 +6,6 @@
 	path = frontend
 	url = https://github.com/coulontitouan/discord.livreur.ovh-frontend
 	branch = main
+[submodule "discord/backend"]
+	path = discord/backend
+	url = https://github.com/coulontitouan/discord.livreur.ovh-backend.git
