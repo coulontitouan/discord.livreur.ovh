@@ -2,8 +2,7 @@
 	path = backend
 	url = https://github.com/coulontitouan/discord.livreur.ovh-backend
     branch = main
-
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/coulontitouan/discord.livreur.ovh-frontend
-    branch = main
+	branch = main
