@@ -20,6 +20,7 @@ logs/
 # Base de données SQLite locale
 *.sqlite3
 *.db
+.DS_STORE
 
 # Cache et fichiers temporaires
 *.swp
